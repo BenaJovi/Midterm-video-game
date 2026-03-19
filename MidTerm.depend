@@ -1,0 +1,282 @@
+# depslib dependency file v1.0
+1731468084 source:c:\users\xavib\desktop\csci 191t\midterm\main.cpp
+	<windows.h>
+	<_Common.h>
+	<_Scene.h>
+
+1731468081 c:\users\xavib\desktop\csci 191t\midterm\include\_common.h
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	<GL/glut.h>
+	<time.h>
+	<math.h>
+
+1724821964 c:\users\xavib\desktop\csci 191t\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1732338911 c:\users\xavib\desktop\csci 191t\midterm\include\_scene.h
+	<_Common.h>
+	<_Timer.h>
+
+1731468082 source:c:\users\xavib\desktop\csci 191t\midterm\src\_2dplayer.cpp
+	"_2DPlayer.h"
+
+1731468081 c:\users\xavib\desktop\csci 191t\midterm\include\_2dplayer.h
+	<_Common.h>
+	<_TextureLoader.h>
+	<_Timer.h>
+
+1731468081 c:\users\xavib\desktop\csci 191t\midterm\include\_textureloader.h
+	<_Common.h>
+	<SOIL.h>
+
+1726701375 c:\users\xavib\desktop\csci 191t\common\include\soil.h
+
+1731468081 c:\users\xavib\desktop\csci 191t\midterm\include\_timer.h
+	<_Common.h>
+
+1731468082 source:c:\users\xavib\desktop\csci 191t\midterm\src\_bullets.cpp
+	"_Bullets.h"
+
+1731468081 c:\users\xavib\desktop\csci 191t\midterm\include\_bullets.h
+	<_Common.h>
+	<_TextureLoader.h>
+	<_Timer.h>
+
+1732333307 source:c:\users\xavib\desktop\csci 191t\midterm\src\_camera.cpp
+	"_Camera.h"
+
+1732328688 c:\users\xavib\desktop\csci 191t\midterm\include\_camera.h
+	<_Common.h>
+
+1732335183 source:c:\users\xavib\desktop\csci 191t\midterm\src\_collision.cpp
+	"_Collision.h"
+
+1732335349 c:\users\xavib\desktop\csci 191t\midterm\include\_collision.h
+	<_Common.h>
+
+1732326716 source:c:\users\xavib\desktop\csci 191t\midterm\src\_kbms.cpp
+	"_KbMs.h"
+
+1732325975 c:\users\xavib\desktop\csci 191t\midterm\include\_kbms.h
+	<_Common.h>
+	<_Models.h>
+	<_parallax.h>
+	<_SkyBox.h>
+	<_Skybox2.h>
+	<_Camera.h>
+	<_2DPlayer.h>
+	<_ModelLoaderMD2.h>
+
+1731790196 c:\users\xavib\desktop\csci 191t\midterm\include\_models.h
+	<_Common.h>
+	<_TextureLoader.h>
+	<_Timer.h>
+	<vector>
+
+1732338911 c:\users\xavib\desktop\csci 191t\midterm\include\_parallax.h
+	<_Common.h>
+	<_TextureLoader.h>
+	<_Timer.h>
+
+1731468081 c:\users\xavib\desktop\csci 191t\midterm\include\_skybox.h
+	<_Common.h>
+	<_TextureLoader.h>
+
+1731468081 c:\users\xavib\desktop\csci 191t\midterm\include\_skybox2.h
+	<_Common.h>
+	<_TextureLoader.h>
+	<_Timer.h>
+
+1732266262 c:\users\xavib\desktop\csci 191t\midterm\include\_modelloadermd2.h
+	<_Common.h>
+	<_TextureLoader.h>
+	"Anorms.h"
+
+1731468081 c:\users\xavib\desktop\csci 191t\midterm\include\anorms.h
+
+1732220060 source:c:\users\xavib\desktop\csci 191t\midterm\src\_lightsetup.cpp
+	"_lightSetup.h"
+
+1731468081 c:\users\xavib\desktop\csci 191t\midterm\include\_lightsetup.h
+	<_Common.h>
+
+1732317163 source:c:\users\xavib\desktop\csci 191t\midterm\src\_modelloadermd2.cpp
+	"_ModelLoaderMD2.h"
+
+1732267716 source:c:\users\xavib\desktop\csci 191t\midterm\src\_models.cpp
+	"_Models.h"
+
+1732338911 source:c:\users\xavib\desktop\csci 191t\midterm\src\_parallax.cpp
+	"_parallax.h"
+
+1732338930 source:c:\users\xavib\desktop\csci 191t\midterm\src\_scene.cpp
+	"_Scene.h"
+	<_lightSetup.h>
+	<_kbMs.h>
+	<_parallax.h>
+	<_SkyBox.h>
+	<_Skybox2.h>
+	<_Camera.h>
+	<_ModelLoaderMD2.h>
+	<_ModelLoaderNum2.h>
+	<_Timer.h>
+	<_Sound.h>
+	<_Collision.h>
+	<_coins.h>
+	<_Score.h>
+
+1731468082 source:c:\users\xavib\desktop\csci 191t\midterm\src\_skybox.cpp
+	"_SkyBox.h"
+
+1731468082 source:c:\users\xavib\desktop\csci 191t\midterm\src\_skybox2.cpp
+	"_Skybox2.h"
+
+1732229598 source:c:\users\xavib\desktop\csci 191t\midterm\src\_textureloader.cpp
+	"_TextureLoader.h"
+
+1731468082 source:c:\users\xavib\desktop\csci 191t\midterm\src\_timer.cpp
+	"_Timer.h"
+
+1731477114 source:c:\users\xavib\desktop\csci 191t\midterm\src\_tt.cpp
+	"_tt.h"
+
+1731477113 c:\users\xavib\desktop\csci 191t\midterm\include\_tt.h
+
+1731543085 source:c:\users\xavib\desktop\csci 191t\midterm\src\_modelloadernum2.cpp
+	"_ModelLoaderNum2.h"
+
+1731540512 c:\users\xavib\desktop\csci 191t\midterm\include\_modelloadernum2.h
+	<_ModelLoaderMD2.h>
+	<_Common.h>
+	<_TextureLoader.h>
+	"Anorms.h"
+
+1732322950 c:\users\xavib\desktop\csci 191t\midterm\include\_sound.h
+	<SNDS/irrKlang.h>
+	<_Common.h>
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_irrklangtypes.h
+	<wchar.h>
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_esoundoutputdrivers.h
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_esoundengineoptions.h
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_estreammodes.h
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1731548145 c:\users\xavib\desktop\csci 191t\common\include\snds\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1732322986 source:c:\users\xavib\desktop\csci 191t\midterm\src\_sound.cpp
+	"_Sound.h"
+	<SNDS/irrKlang.h>
+
+1732325012 source:c:\users\xavib\desktop\csci 191t\midterm\src\_coins.cpp
+	"_coins.h"
+	<cstdlib>
+	<ctime>
+
+1732306656 c:\users\xavib\desktop\csci 191t\midterm\include\_coins.h
+	<_Common.h>
+	<_TextureLoader.h>
+	<_Timer.h>
+
+1732339279 source:c:\users\xavib\desktop\csci 191t\midterm\src\_score.cpp
+	"_Score.h"
+
+1732337461 c:\users\xavib\desktop\csci 191t\midterm\include\_score.h
+	<_Common.h>
+	<_TextureLoader.h>
+
